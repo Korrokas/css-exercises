@@ -1,0 +1,19 @@
+.podd {
+    background-color: #cf1f77;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.poddtwo {
+    font-size: 24px;
+}
+
+#blue {
+    color: #0011ff;
+    font-size: 36px;
+}
+
+#green {
+    background-color: rgb(71, 238, 29);
+    font-size: 24px;
+    font-weight: bold;
+}
